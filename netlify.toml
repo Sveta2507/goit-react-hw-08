@@ -1,0 +1,6 @@
+[build]
+publish = "build"
+[[redirect]]
+from = "/*"
+to = "/idex.html"
+status = 200
